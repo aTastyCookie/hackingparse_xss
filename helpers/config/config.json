@@ -1,0 +1,7 @@
+{
+    "mongoose": {
+        "uri": "mongodb://localhost/hacking",
+        "options": {}
+    },
+    "port": 8020
+}
